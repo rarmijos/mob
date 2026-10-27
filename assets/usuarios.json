@@ -1,0 +1,9 @@
+{
+    "usuarios":[
+        "uid":{
+        "nombre":"Gerson Teran",
+        "edad": 22,
+        "telefono": "0998988787",
+        "correo":"gerson@yopmail.com"
+    }]
+}
